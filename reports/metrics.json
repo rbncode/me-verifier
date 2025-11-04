@@ -1,0 +1,6 @@
+{
+    "train_accuracy": 1.0,
+    "validation_accuracy": 0.9090909090909091,
+    "train_auc": 1.0,
+    "validation_auc": 1.0
+}

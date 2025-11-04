@@ -1,0 +1,12 @@
+torch
+torchvision
+facenet-pytorch
+scikit-learn
+Flask
+Pillow
+numpy
+joblib
+gunicorn
+python-dotenv
+matplotlib
+pytest
